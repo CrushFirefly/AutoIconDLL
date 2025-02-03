@@ -1,0 +1,4 @@
+// resources.rc
+#define ICON_DIR "resources/"
+
+#undef ICON_DIR

@@ -1,0 +1,8 @@
+# idea目录
+.idea/
+
+# .vscode目录
+.vscode/
+
+# cmake-build-debug目录
+cmake-build-debug/
